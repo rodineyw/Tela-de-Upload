@@ -38,6 +38,7 @@ html, body {
     opacity: 0;
     inset: 0;
     position: absolute;
+    cursor: pointer;
 }
 
 .drag-files i.ph {
@@ -179,4 +180,4 @@ progress::-webkit-progress-value {
     --icon-color: #e36363;
     --progress-color: white;
     --progress-text: #e36363;
-  }
+}
